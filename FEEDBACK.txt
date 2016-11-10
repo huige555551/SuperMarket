@@ -1,0 +1,18 @@
+FEEDBACK:
+
+Good sample demonstrating your implementation.
+
+
+Nice clean implementation of your LazySearchTree class with lazy deletion!
+
+
+other comments:
+   Well done in going above and beyond in implementing removeHard() feature.
+   However, the project description does not describe the implementation of 
+   removeHard() feature. Nor does the provided test file check for this.
+
+   Make sure to check that your implementation meets the requirements as 
+   specified in the upcoming project.
+
+-Bita.
+
