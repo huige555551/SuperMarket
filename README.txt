@@ -1,5 +1,5 @@
 project folder:
-vyao95-project05/
+SuperMarket/
 
 Brief description of submitted files:
 
