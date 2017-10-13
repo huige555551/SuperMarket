@@ -4,7 +4,6 @@ package lazyTrees;
 /**
  * One object of Item class represents one item in the inventory, with two class members. 
  * 
- * @author Foothill College, Bita Mazloom
  */
 public class Item implements Comparable<Item> 
 {
